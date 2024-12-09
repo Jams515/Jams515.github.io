@@ -1,87 +1,36 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ryan Taylor's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ryan Taylor
+Business Analytics student at BYU-I
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="www.linkedin.com/in/ryan-taylor-405a93263">Linkedin</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Studying Business Analytics with a minor in Data Science at BYU-I and working at Tadd Jenkins Chevrolet
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-2019`
+__Gervais High School, Gervais OR__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`January 2022 - now`
+__Brigham Young University - Idaho, Rexburg ID__
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`August 2022 - now`
+__Tadd Jenkins Chevrolet, Detailer. Rigby ID__
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`July 2021 - September 2021`
+__Baumans Farm and Garden, Greenhouse. Gervais OR__
 
 
 <!-- ### Footer
